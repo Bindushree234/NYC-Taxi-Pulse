@@ -1,6 +1,5 @@
 # NYC-Taxi-Pulse
 The pulse of the city
-# The Pulse of the City – NYC Taxi Analysis
 
 ## Objective
 Analyze NYC taxi system to detect stability, patterns, and inefficiencies.
